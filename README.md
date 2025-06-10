@@ -1,2 +1,4 @@
 # LearnGit
-Learn  GIT &amp; GitHub
+
+Learn GIT &amp; GitHub
+Author : BharatiSahoo
